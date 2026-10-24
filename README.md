@@ -49,9 +49,20 @@ Business Implication: The January–February comparison indicates that improving
 
 
 ## Repository Structure
-- `cleaned_data.ipynb` — data cleaning and preparation
-- `e_com.sql` — SQL queries
-- `data/` — approved datasets or instructions for obtaining the data
-- `power-bi/` — dashboard file and screenshots
+
+```text
+e-commerce-sales-analysis/
+│
+├── cleaned_data.ipynb              # Data cleaning and preparation using Pandas
+├── customer_clean.csv              # Cleaned customer dataset
+├── product_clean.csv               # Cleaned product dataset
+├── sales_compressed.csv.gz         # Compressed sales dataset
+├── e_com.sql                       # SQL queries for sales analysis
+├── e_com.pbix                      # Interactive Power BI report
+│
+├── sales review.png                # Sales Overview dashboard
+├── february 2025.png               # February 2025 Deep Dive dashboard
+└── customer & product analysis.png # Customer and Product Analysis dashboard
+```
 
 
