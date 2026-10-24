@@ -22,11 +22,17 @@ An end-to-end data analytics project exploring e-commerce sales, customer purcha
 4. Power BI dashboard development
 5. Business insights and recommendations
 
-## Dashboard
-Add screenshots of your Sales Overview and Customer & Product Analysis pages here.
 
 ## Key Findings
-Add verified findings from your analysis here. Explain the metric, time period, and business implication for each finding.
+Revenue Performance: Total revenue from delivered orders decreased from 194.71M in January 2025 to 172.13M in February 2025, an 11.6% month-over-month decline. This highlights the importance of monitoring monthly revenue trends and identifying opportunities to improve sales performance.
+
+Order Volume: Total orders declined from 10,243 in January to 9,211 in February 2025, a decrease of approximately 10.1%. The decline in order volume appears to be the primary contributor to the revenue reduction, making customer acquisition and order generation important areas for improvement.
+
+Average Order Value (AOV): Average order value decreased slightly from 23,699.04 in January to 23,329.82 in February 2025, a reduction of approximately 1.6%. This suggests that the revenue decline was more closely associated with fewer orders than with a substantial decrease in average spending per delivered order.
+
+Order Status Analysis: Delivered orders decreased from 8,216 in January to 7,378 in February, while cancelled orders increased slightly from 470 to 476. Monitoring cancellations, returns, and processing delays can help identify operational issues and improve the overall customer experience.
+
+Business Implication: The January–February comparison indicates that improving order volume and maintaining delivery performance should be key priorities. Further analysis by product category, customer segment, and geographic region can help identify specific opportunities for revenue growth.
 
 ## Repository Structure
 - `cleaned_data.ipynb` — data cleaning and preparation
@@ -34,12 +40,4 @@ Add verified findings from your analysis here. Explain the metric, time period, 
 - `data/` — approved datasets or instructions for obtaining the data
 - `power-bi/` — dashboard file and screenshots
 
-## How to Run
-1. Install the packages listed in `requirements.txt`.
-2. Obtain the approved input datasets and place them in the `data/` directory.
-3. Configure a local PostgreSQL database using your own credentials.
-4. Run the notebooks in Jupyter.
-5. Open the Power BI report in Power BI Desktop.
 
-## Data Privacy
-No database passwords or credentials should be committed to this repository. Only datasets approved for public sharing should be included.
