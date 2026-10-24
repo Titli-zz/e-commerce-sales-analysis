@@ -30,7 +30,6 @@ Add verified findings from your analysis here. Explain the metric, time period, 
 
 ## Repository Structure
 - `cleaned_data.ipynb` — data cleaning and preparation
-- `customer.ipynb` — customer analysis or related notebook work
 - `e_com.sql` — SQL queries
 - `data/` — approved datasets or instructions for obtaining the data
 - `power-bi/` — dashboard file and screenshots
