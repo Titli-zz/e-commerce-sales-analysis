@@ -34,6 +34,20 @@ Order Status Analysis: Delivered orders decreased from 8,216 in January to 7,378
 
 Business Implication: The January–February comparison indicates that improving order volume and maintaining delivery performance should be key priorities. Further analysis by product category, customer segment, and geographic region can help identify specific opportunities for revenue growth.
 
+
+## Power BI Dashboard
+
+### 1. Sales Overview
+![Sales Overview](sales%20review.png)
+
+### 2. February 2025 Deep Dive
+![February 2025 Deep Dive](february%202025.png)
+
+### 3. Customer & Product Analysis
+![Customer and Product Analysis](customer%20%26%20product%20analysis.png)
+
+
+
 ## Repository Structure
 - `cleaned_data.ipynb` — data cleaning and preparation
 - `e_com.sql` — SQL queries
