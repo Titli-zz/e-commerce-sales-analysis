@@ -149,9 +149,11 @@ Revenue is the product of three things: the number of days, orders per day, and 
 
 Multiplying the three changes gives (1 − 0.097) × (1 − 0.006) × (1 − 0.016) = 0.884, which is the −11.6% drop. **Fewer days alone account for about 9.7 of the 11.6 points.**
 
-![Monthly delivered revenue: both Februaries are lower because February has 28 days](images/monthly_revenue.png)
+### Monthly Delivered Revenue
+![Monthly Delivered Revenue](monthly_revenue.png)
 
-![Revenue per day is nearly flat, and February 2025 sits close to the average](images/revenue_per_day.png)
+### Revenue Per Day
+![Revenue Per Day](revenue_per_day.png)
 
 ### Other explanations checked and ruled out
 
